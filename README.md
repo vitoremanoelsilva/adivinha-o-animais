@@ -55,11 +55,8 @@ Além disso, há duas perguntas de desempate usadas apenas quando necessário:
 - **Linguagem:** C++ (C++11 ou superior)
 - **Compilador sugerido:** g++ / Visual Studio / Code::Blocks
 
-##  Como executar
 
-### 1. Clone o repositório
-```bash
-git clone https://github.com/<seu-usuario>/projeto-logica-animais.git
-cd projeto-logica-animais
+
+
 
 
