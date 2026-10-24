@@ -1,4 +1,4 @@
-# 🐾 Projeto de Lógica de Programação — Adivinha o Animal
+# Projeto de Lógica de Programação — Adivinha o Animal
 
 Projeto desenvolvido para a disciplina de **Lógica de Programação (Sebrae)**.
 
@@ -6,17 +6,17 @@ O programa é um "Akinator simplificado": o usuário pensa em um animal de uma l
 pré-definida e o algoritmo, por meio de até **6 perguntas de Sim/Não**, descobre qual
 animal foi escolhido.
 
-## 🎯 Objetivo
+## Objetivo
 
 Aplicar as estruturas de controle **sequencial**, **decisão** e **laço de repetição**
 na construção de um algoritmo de identificação de animais.
 
-## 🐾 Animais possíveis (15)
+## Animais possíveis (15)
 
 Leão · Baleia · Tartaruga · Cavalo · Avestruz · Crocodilo · Homem · Pinguim ·
 Cobra · Macaco · Pato · Iguana · Morcego · Águia · Panda
 
-## ❓ Perguntas utilizadas (6)
+## Perguntas utilizadas (6)
 
 1. É mamífero?
 2. É quadrúpede?
@@ -30,7 +30,7 @@ Além disso, há duas perguntas de desempate usadas apenas quando necessário:
 - **"É bípede (anda sobre duas patas)?"** → diferencia **Homem × Macaco**
 - **"Tem casco (carapaça)?"** → diferencia **Iguana × Tartaruga**
 
-## 📊 Tabela Verdade
+##  Tabela Verdade
 
 | Animal | Mamífero? | Quadrúpede? | Carnívoro? | Herbívoro? | Voa? | Aquático? |
 |--------|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -50,12 +50,12 @@ Além disso, há duas perguntas de desempate usadas apenas quando necessário:
 | Panda | Sim | Sim | Não | Sim | Não | Não |
 | Cobra | Não | Não | Sim | Não | Não | Não |
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - **Linguagem:** C++ (C++11 ou superior)
 - **Compilador sugerido:** g++ / Visual Studio / Code::Blocks
 
-## 🚀 Como executar
+##  Como executar
 
 ### 1. Clone o repositório
 ```bash
